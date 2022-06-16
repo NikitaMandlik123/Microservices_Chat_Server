@@ -3,7 +3,7 @@ This Repository contains the code for the Mini Project2 for cloud computing.
 
 
 
-TASK 1 -> Building the Native:
+# TASK 1 -> Building the Native:
 
 Starting the VM instance cloudmpp1. 
 Open the SSH. 
@@ -22,7 +22,7 @@ Now copy the ip address of the current VM and open it in the browser on port 808
 ip address : 8080 
 
 
-TASK 2 -> Containerization
+# TASK 2 -> Containerization
 
 Starting the VM instance project2.
 Open the SSH.
@@ -41,7 +41,7 @@ The live chat service can be accessed externally (using browsers)
 
 
 
-TASK 3 ->  Orchestration ( using Kubernetes) 
+# TASK 3 ->  Orchestration ( using Kubernetes) 
 
 
 Starting the VM instance kubernetes.
